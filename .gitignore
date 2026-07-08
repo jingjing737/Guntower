@@ -1,0 +1,16 @@
+# 历史版本和调试文件
+*修复前*.py
+*debug*.py
+*副本*.py
+monitor_*.py
+test_*.py
+visualize_*.py
+
+# 备份目录
+GunTower_Backup/
+GunTower_副本*/
+__pycache__/
+*.pyc
+
+# 系统文件
+.DS_Store
